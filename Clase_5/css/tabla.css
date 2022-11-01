@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.contenedortabla{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table, th, td{
+	border: 3px solid #89072b;
+	border-collapse: collapse;
+	background: rgb(246, 217, 109, 0.5);
+    text-align: center;
+    padding: 5px;
+}
